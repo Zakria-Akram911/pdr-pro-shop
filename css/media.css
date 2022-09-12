@@ -1,0 +1,1524 @@
+/* For 1920 x 1080 */
+@media (min-width: 1601px) and (max-width: 1920px){
+    p{
+        font-size: 18px;
+        line-height: 2;
+    }
+    h1{
+        font-size: 66px;
+    }
+    h2{
+        font-size: 54px;
+    }
+    /* For Header */
+    .index-flex{
+        width: 1720px;
+        align-items: center;
+    }
+    .index-width1 img{
+        width: 142px;
+        height: 100px
+    }
+    nav.navbar ul li a{
+        font-size:16px ;
+    }
+    .navbar li {
+        padding: 0px 25px;
+    }
+    .index-width2{
+        text-align: right;
+    }
+    .banner-text{
+        margin-top: 140px;
+    }
+    .banner-car {
+        margin-top: 70px;
+    }
+    .banner-para {
+        max-width: 50%;
+    }
+    .banner-car img {
+        width: 1200px;
+        height: 600px;
+    }
+    .index-flex1{
+        width: 1156px;
+        margin: 200px auto;
+    }
+    .screw2{
+        width: 50%;
+    }
+    .screw1{
+        width: 50%;
+    }
+    .slider-flex{
+        width: 1720px;
+        padding: 0px;
+        margin: 50px auto;
+    }
+    .individual{
+        margin-bottom: 50px;
+    }
+    .individual1 img {
+        height: 800px;
+    }
+    .individual2-img{
+        left: -41%;
+    }
+    .individual2 img{
+        height: 550px;
+    }
+    .individual2-para{
+        max-width: 49%;
+        top: 66%;
+        right: 20%;
+    }
+    .body-shop-para{
+        margin: 130px auto;
+    }
+    .insurance1-img img{
+        width: 1600px;
+    }
+    .insurance1-img::before{
+        top: -13%;
+    }
+    .insurance1-img::after{
+        right: -4%;
+    }
+    .finishing img {
+        height: 500px;
+    }
+    .denting{
+        bottom: -400px;
+    }
+    .denting img {
+        height: 640px;
+    }
+    .insurance-para {
+        bottom: -65%;
+        right: -10%;
+        max-width: 40%;
+    }
+    .sign-up{
+        margin-top: 470px;
+    }
+    .sign-up1 {
+        width: 43%;
+    }
+    input[type='text']{
+        width: 43%;
+    }
+    input[type='email']{
+        width: 43%;
+    }
+    input[type='tel']{
+        width: 43%;
+    }
+    textarea{
+        resize: horizontal;
+        width: 90%;
+    }
+    .form1 a{
+        bottom: 6%;
+        right: 7%;
+    }
+
+    /* For Service Area */
+    .banner-s-text h1{
+        font-size: 66px;
+    }
+    .banner-s-text {
+        max-width: 65%;
+    }
+    .banner-s-para {
+        max-width: 71%;
+    }
+    .banner-s-para p{
+        font-size: 24px;
+    }
+    .service-div1 {
+        width: 1306px;
+        margin: 0px auto;
+    }
+    .service-div1-a{
+        width: 35%;
+    }
+    .service-div1-b {
+        width: 65%;
+    }
+    .banner-as-text{
+        max-width: 70%;
+        margin-bottom: 50px;
+    }
+    .banner-as-text h1{
+        font-size: 46px;
+    }
+    .banner-as-para p{
+        font-size: 24px;
+    }
+    .as-content{
+        width: 1140px;
+        margin: 0px auto;
+    }
+    .as-img{
+        width: 1220px;
+    }
+    .as-img1{
+        background-repeat: no-repeat;
+    }
+    .registration{
+        width: 1240px;
+    }
+    ul.tabs{
+        width: 31%;
+        margin: 0px auto;
+    }
+    .registration ul li a {
+        font-size: 20px;
+    }
+    .form2{
+        padding-left: 30px;
+    }
+    .form2 label {
+        font-size: 24px;
+    }
+    #form2-fname {
+        width: 88%;
+        height: 80px;
+    }
+    #form2-email {
+        width: 88%;
+        height: 80px;
+    }    
+    #form2-tel {
+        width: 88%;
+        height: 80px;
+    }
+    #form2-experience {
+        width: 88%;
+        height: 80px;
+    }
+    #form2-country {
+        width: 95%;
+        height: 100px;
+        font-size: 24px;
+    }
+    #form2-state {
+        width: 95%;
+        height: 100px;
+        font-size: 24px;
+    }
+    #form2-city {
+        width: 95%;
+        height: 100px;
+        font-size: 24px;
+    }    
+    /* For Service Area Detail */
+    .sa-flex{
+        max-width: 1320px;
+    }
+    /* For Portfolio Page */
+    .portfolio-img {
+        width: 1340px;
+    }
+    .tabBox2 ul {
+        width: 74%;
+        margin: 0px auto;
+        margin-top: 40px;
+    }    
+    ul.tabs2 li a {
+        font-size: 26px;
+    }
+    .see-more a {
+        font-size: 30px;
+    }
+    .tabContainer2{
+        margin-bottom: 40px;
+    }
+    /* For Hail Concierge */
+    .new-container {
+        width: 1320px;
+    }
+    #form3-timeslot {
+        width: 95%;
+        height: 90px;
+        font-size: 24px;
+    }
+    /* For Contact Us Page */
+    .contact-container {
+        width: 1320px;
+    }    
+    
+    /* For Footer */
+    .my-footer{
+        width: 1720px;
+    }
+    .my-footer1a {
+        width: 40%;
+    }
+    .my-footer1b {
+        width: 20%;
+    }
+}
+
+/* For 1400 x 800 */
+@media (min-width: 1367px) and (max-width: 1400px){
+    /* For Header */
+    .index-flex{
+        width: 1200px;
+    }
+    /* For Home Page */
+    .banner-car{
+        margin-top: 80px;
+    }
+    textarea{
+        resize: horizontal;
+        width: 90%;
+    }
+    /* For Service Area Detail Page */
+    .sa-flex {
+        max-width: 984px;
+    }
+    /* For Hail Concierge */
+    .new-container{
+        width: 1000px;
+    }
+    .service-intouch{
+        padding: 130px 0px;
+    }
+    /* For Contact Us Page */
+    .hail-banner h1{
+        font-size: 62px;
+    }
+    .contact-container{
+        width: 1000px;
+    }
+    
+    /* For Footer */
+    .my-footer{
+        width: 1274px;
+    }
+    .my-footer2b{
+        width: 28%;
+    }
+}
+
+/* For Screen of 1280 x 800 */
+@media (min-width: 1025px) and (max-width: 1280px){
+    body{
+        margin: 0px;
+    }
+    /* For Home Page */
+    .banner{
+        max-height: 70vh;
+    }
+    .slider-flex{
+        margin-top: 40px;
+    }
+    input[type="text"]{
+        width: 42%;
+    }
+    input[type="email"]{
+        width: 42%;
+    }
+    input[type="tel"]{
+        width: 42%;
+    }
+    textarea{
+        resize: horizontal;
+        width: 90%;
+    }
+    /* Service Area Page */
+    .banner-service{
+        max-height: 70vh;
+    }
+    .banner-s-text{
+        max-width: 53%;
+    }
+}
+
+/* For iPad Pro */
+@media(min-width:1024px) and (max-width:1279px){
+    /* Generic */
+    p{
+        font-size: 20px;
+        line-height: 1.8;
+    }
+    hr{
+        margin: 0px;
+    }
+    
+    /* For Hamburger */
+    nav.navbar{
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        background-color: #08415C;
+        top: 0%;
+        right: 0%;
+        z-index: 9;
+        top: -110%;
+        text-align: left;
+        transition: 0.4s ease-in-out;
+    }
+    nav.navbar.active{
+        top: 110px;
+    }
+    nav.navbar ul{
+        margin-top: 50px;
+        
+    }
+    nav.navbar ul li{
+        display: block;
+        margin-bottom: 26px;
+        margin-left: 30px;
+        text-align: left;
+    }
+    nav.navbar ul li a{
+        color: white;
+        font-size: 24px;
+        font-weight: 500;
+    }
+    nav.navbar ul li:nth-child(7){
+        display: inline-block;
+        margin-left: 40px;
+    }
+    .hamburger{
+        display: block;
+        position: relative;
+        width: 96%;
+        margin-top: 9px;
+        z-index: 99;
+        text-align: right;
+    }
+    .hamburger button {
+        background: transparent;
+        border: 0px;
+        outline: none;
+    }
+    
+    .hamburger button span {
+        width: 70px;
+        height: 6px;
+        display: block;
+        background: black;
+        margin-bottom: 8px;
+        transition: 0.4s ease-in-out;
+    }
+
+    /* For header */
+    header{
+        width: 100%;
+    }
+    .index-flex{
+        width: 90%;
+        margin: 0px auto;
+        padding: 20px 0px;
+    }
+    /* Home Page */
+    .banner{
+        max-height: 50vh;
+    }
+    .banner-h1{
+        margin-bottom: 20px;
+    }
+    .banner-para{
+        margin: 0px;
+    }
+    .banner-para p{
+        max-width: 80%;
+        margin: 20px auto;
+    }
+    .banner-car{
+        margin-top: 70px;
+    }
+    .index-flex1{
+        width: 90%;
+        margin: 0px auto;
+        margin-top: 200px;
+    }
+    .screw1{
+        height: 620px;
+        width: 50%;
+    }
+    .screw2{
+        width: 50%;
+    }
+    .slider-flex{
+        width: 90%;
+        margin: 0px auto;
+        margin-top: 80px;
+        padding: 0px;
+    }
+    .slider-width1{
+        width: 31%;
+    }
+    .slider-width2{
+        width: 66%;
+    }
+    .slider-width3{
+        width: 6%;
+    }
+    .slider-width3 a i{
+        margin-top: 90px;
+    }
+    .individual {
+        margin-top: 30px;
+    }
+    .individual2-img{
+        top: 7%;
+        left: -39%;
+    }
+    .individual2-para{
+        top: 8%;
+        right: 2%;
+    }
+    .body-shop{
+        margin: 70px 0px;
+    }
+    input[type='email']{
+        width: 88%;
+    }
+    input[type='tel']{
+        width: 88%;
+    }
+    input[type='text']{
+        width: 88%;
+    }
+    textarea{
+        resize: horizontal;
+        width: 88%;
+    }
+    .form1 a{
+        bottom: 5%;
+    }
+    .insurance-para{
+        bottom: -80%;
+        right: -10%;
+        max-width: 50%;
+    }
+    .insurance1-img::after{
+        bottom: 10%;
+        right: -10%;
+    }
+    /* Service Area */
+    .banner-s-text{
+        max-width: 65%;
+    }
+    .service-div1-a{
+        width: 27%;
+    }
+    .service-div2:nth-child(2) div a i{
+        margin-top: 150px;
+    }
+    /* Tech and Adjuster SignUp */
+    .banner-service{
+        max-height: 60vh;
+    }
+    .as-content p{
+        font-size: 38px;
+    }
+    .img-absolute{
+        left: -7%;
+    }
+    /* Portfolio */
+    .tabBox2 ul{
+        margin: 40px 85px 8px 85px;
+    }
+    ul.tabs2 li a{
+        font-size: 18px;
+    }
+    /* Hail Concierge */
+    .service-intouch{
+        padding: 120px 0px;
+    }
+    .service-intouch p{
+        max-width: 70%;
+    }
+    /* Contact Us page */
+    .contact-container{
+        width: 100%;
+    }
+    .contact-section{
+        width: 90%;
+        margin: 0px auto;
+    }
+
+    /* For Footer */
+    .my-footer{
+        width: 100%;
+    }
+    .my-footer1{
+        align-items: flex-start;
+    }
+    .my-footer1a{
+        width: 37%;
+    }
+    .my-footer1b{
+        width: 20%;
+    }
+    .my-footer1a img{
+        filter: invert(0.3);
+    }
+    .my-footer1a p{
+        color: #c1c1c1;
+    }
+    .footer-icon{
+        color: #c1c1c1;
+    }
+    .my-footer2a{
+        width: 50%;
+        color: #c1c1c1;
+        font-size: 16px;
+    }
+    .my-footer2b{
+        width: 36%;
+    }
+    .my-footer2b a{
+        color: #c1c1c1;
+        padding: 0px 20px;
+    }
+    .my-footer2a p{
+        font-size: 16px;
+    }
+    .my-footer1b a{
+        color: #c1c1c1;
+    }
+    
+}
+
+
+/* For iPad */
+@media (min-width:768px) and (max-width:1023px){
+    /* Generic */
+    p{
+        font-size: 16px;
+        line-height: 1.7;
+    }
+    h1{
+        line-height: 1.5;
+    }
+
+    /* For Hamburger */
+    nav.navbar{
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        background-color: #08415C;
+        top: 0%;
+        right: 0%;
+        z-index: 9;
+        top: -110%;
+        text-align: left;
+        transition: 0.4s ease-in-out;
+    }
+    nav.navbar.active{
+        top: 110px;
+    }
+    nav.navbar ul{
+        margin-top: 50px;
+        
+    }
+    nav.navbar ul li{
+        display: block;
+        margin-bottom: 20px;
+        margin-left: 30px;
+        text-align: left;
+    }
+    nav.navbar ul li a{
+        color: white;
+        font-size: 18px;
+        font-weight: 500;
+    }
+    nav.navbar ul li:nth-child(7){
+        display: inline-block;
+        margin-left: 40px;
+    }
+    .hamburger{
+        display: block;
+        position: relative;
+        width: 96%;
+        margin-top: 14px;
+        z-index: 99;
+        text-align: right;
+    }
+    .hamburger button {
+        background: transparent;
+        border: 0px;
+        outline: none;
+    }
+    
+    .hamburger button span {
+        width: 50px;
+        height: 4px;
+        display: block;
+        background: black;
+        margin-bottom: 6px;
+        transition: 0.4s ease-in-out;
+    }
+
+    /* For Header */
+    header{
+        width: 100%;
+    }
+    .index-flex{
+        width: 90%;
+        padding: 20px 0px;
+    }
+
+    /* Home Page */
+    .banner{
+        max-height: 60vh;
+    }
+    .banner-para{
+        max-width: 90%;
+        margin: 20px auto;
+    }
+    .banner-car{
+        margin-top: 60px;
+    }
+    .banner-car img{
+        width: 500px;
+        height: 300px;
+    }
+    .index-flex1{
+        width: 90%;
+        display: block;
+        margin: 60px auto;
+        margin-top: 200px;
+    }
+    .screw1{
+        width:100%;
+    }
+    .screw2{
+        width: 100%;
+        margin: 0px;
+    }
+    .screw2-h2{
+        text-align: center;
+    }
+    .slider-flex{
+        padding: 0px;
+        width: 90%;
+        margin: 40px auto;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .slider-width1{
+        width: 40%;
+    }
+    .slider-width3{
+        width: 10%;
+    }
+    .image{
+        margin: 20px 0px;
+    }
+    .individual{
+        display: block;
+        width: 100%;
+    }
+    .individual1{
+        display: none;
+    }
+    .individual2{
+        width: 100%;
+    }
+    .individual2-img{
+        top: 0%;
+        left: 19%;
+    }
+    .individual2-para{
+        position: static;
+        width: 90%;
+        margin: 20px auto;
+    }
+    .body-shop{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        flex-direction: column-reverse;
+        margin-bottom: 70px;
+    }
+    .body-shop-para {
+        width: 90%;
+        display: block;
+    }
+    .body-shop-img {
+        width: 90%;
+        margin: 0px auto;
+    }
+    .body-shop-img img{
+        width: 100%;
+        height: 500px;
+    }
+    .insurance{
+        width: 100%;
+        margin-bottom: 150px;
+    }
+    .insurance-para{
+        bottom: -25%;
+        right: -27%;
+        max-width: 60%;
+    }
+    .insurance1-img img{
+        width: 100%;
+        height: 500px;
+    }
+    .insurance1-img::after{
+        display: none;
+    }
+    .denting{
+        bottom:-10%;
+    }
+    .sign-up{
+        display: block;
+        width: 90%;
+        margin: 0px auto;
+    }
+    .sign-up1{
+        width: 100%;
+    }
+    .sign-up1-para{
+        max-width: 100%;
+        text-align: center;
+    }
+    .sign-up2 {
+        margin-top: 70px;
+        width: 100%;
+    }
+    .ad-sign-up-pink{
+        display: none;
+    }
+    .ad-sign-up{
+        display: block;
+        margin: 30px auto;
+        width: 90%;
+    }
+    .ad-sign-up1 {
+        width: 100%;
+    }
+    .ad-sign-up2 {
+        width: 100%;
+    }
+    .ad-sign-up2-para{
+        max-width: 100%;
+    }
+    .partner{
+        width: 100%;
+    }
+    .partner2{
+        padding: 0px;
+    }
+    .in-touch{
+        display: block;
+        width: 100%;
+    }
+    .in-touch1{
+        width: 100%;
+    }
+    .in-touch2{
+        width: 100%;
+    }
+    input[type='text']{
+        width: 90%;
+    }
+    input[type='email']{
+        width: 90%;
+    }
+    input[type='tel']{
+        width: 90%;
+    }
+    textarea{
+        resize: horizontal;
+        width: 90%;
+    }
+    .form1 a{
+        bottom: 5%;
+    }
+
+    /* Service Area */
+    .banner-s-text{
+        max-width: 80%;
+    }
+    .banner-s-para{
+        max-width: 90%;
+    }
+    .service-div1{
+        max-width: 90%;
+        margin: 0px auto;
+    }
+    .service-div1-a{
+        width: 35%;
+    }
+    .service-div1-b{
+        width: 65%;
+    }
+    .service-div2{
+        width: 90%;
+        margin: 0px auto;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    .service-div2-a{
+        width: 49%;
+        margin-bottom: 20px;
+    }
+    /* For Sercice Area Details */
+    .sa-flex{
+        max-width:90%;
+        display: block;
+    }
+    .sa-width1 {
+        width: 90%;
+        margin: 0px auto;
+    }
+    /* Tech and Adjuster SignUp */
+    .banner-service{
+        max-height: 60vh;
+    }
+    .banner-as-text{
+        max-width: 80%;
+    }
+    .banner-as-para{
+        max-width: 90%;
+    }
+    .as-content{
+        padding: 60px 0px;
+        max-width: 90%;
+        margin: 0px auto;
+    }
+    .as-content p{
+        font-size: 32px;
+    }
+    .as-img{
+        width: 100%;
+    }
+    .img-absolute{
+        display: none;
+    }
+    ul.tabs{
+        margin: 8px auto;
+        width: 44%;
+    }
+
+    /* Portfolio Page */
+    .portfolio-banner{
+        text-align: center;
+    }
+    .portfolio-banner h1{
+        max-width: 80%;
+    }
+    .portfolio-img{
+        width: 100%;
+    }
+    .tabBox2{
+        width: 90%;
+        margin: 0px auto;
+    }
+    .tabBox2 ul{
+        margin: 60px 0px 7px 40px;
+    }
+    ul.tabs2 li a{
+        padding: 8px 10px;
+    }
+    .service-intouch{
+        padding: 90px 0px;
+    }
+    /* Hail Corcierge Page */
+    .new-container{
+        width: 100%;
+    }
+    .registration{
+        width: 100%;
+    }
+    .service-intouch p{
+        max-width: 70%;
+    }
+
+    /* Contact Us Page */
+    .contact-container{
+        width: 90%;
+    }
+
+    /* For Footer */
+    footer{
+        width: 100%;
+    }
+    .my-footer{
+        width: 100%;
+    }
+    .my-footer1{
+        display: block;
+    }
+    .my-footer1a{
+        width: 90%;
+        color: #c1c1c1;
+    }
+    .my-footer1a img{
+        filter: invert(0.3);
+    }
+    .my-footer1b{
+        width: 33%;
+        margin-top: 30px;
+        margin-left: 0px;
+    }
+    .my-footer1b a{
+        color: #c1c1c1;
+    }
+    .my-footer2{
+        padding: 10px 20px;
+    }
+    .my-footer2a{
+        width: 50%;
+        color: #c1c1c1;
+        font-size: 13px;
+    }
+    .my-footer2b a{
+        color: #c1c1c1;
+        padding: 0px 8px;
+    }
+    .my-footer2a p{
+        font-size: 13px;
+    }
+    hr{
+        margin: 0px;
+    }
+}
+
+
+/* For Mobile Phones */
+
+@media(max-width:767px){
+    /* Generic */
+    p{
+        font-size: 14px;
+        line-height: 1.5;
+    }
+    img{
+        width: 100%;
+    }
+    h1{
+        font-size: 30px!important;
+    }
+    h2{
+        font-size: 26px;
+    }
+    h3{
+        font-size: 26px!important;
+    }
+    /* Hamburger */
+    nav.navbar{
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        background-color: #08415C;
+        top: 0%;
+        right: 0%;
+        z-index: 9;
+        top: -110%;
+        text-align: left;
+        transition: 0.4s ease-in-out;
+    }
+    nav.navbar.active {
+        top: 68px;
+    }
+    nav.navbar ul{
+        margin-top: 90px;
+    }
+    nav.navbar ul li{
+        display: block;
+        margin-top:20px ;
+        margin-left: 20px;
+    }
+    nav.navbar ul li a{
+        color: white;
+    }
+    nav.navbar ul li:nth-child(7){
+        display: inline-block;
+        margin-left: 30px;
+    }
+    .hamburger {
+        display: block;
+        position: relative;
+        width: 96%;
+        margin-top: 14px;
+        z-index: 99;
+        text-align: right;
+    }
+    
+    .hamburger button {
+        background: transparent;
+        border: 0px;
+        outline: none;
+    }
+    
+    .hamburger button span {
+        width: 50px;
+        height: 4px;
+        display: block;
+        background: black;
+        margin-bottom: 6px;
+        transition: 0.4s ease-in-out;
+    }
+
+    /* Page after Hamburger */
+    /* Home Page */
+    .banner-text{
+        width: 100%;
+        margin-top: 50px;
+    }
+    .banner-para{
+        margin: 20px 10px;
+    }
+    .banner-car img {
+        width: 300px;
+        height: 200px;
+    }
+    .index-flex1{
+        display: block;
+        margin: 0px;
+        margin-top: -30px;
+    }
+    .screw1{
+        width: 90%;
+        border-radius: 20px;
+        margin: 0px auto;
+    }
+    .screw2{
+        width: 90%;
+        margin: 20px auto;
+    }
+    .screw2-para p{
+        line-height: 1.5;
+    }
+    .screw2-h2 h2{
+        font-size: 26px;
+    }
+    .slider-flex{
+        display: block;
+        width: 100%;
+        margin-top: 50px;
+        padding: 0px;
+    }
+    .slider-width1{
+        margin:0px auto;
+        width: 90%;
+    }
+    .slider-width2{
+        margin:0px auto;
+        width: 90%;
+    }
+    .slider-width3{
+        margin:0px auto;
+        width: 90%;
+    }
+    .image{
+        width: 100%;
+        display: block;
+        margin-top: 30px;
+    }
+    .image1{
+        width: 90%;
+        margin: 0px auto;
+    }
+    .image1 img{
+        width: 100%;
+        height: 200px;
+    }
+    .image2 img{
+        display: none;
+    }
+    .individual1{
+        display: none;
+    }
+    .individual2{
+        width: 100%;
+    }
+    .individual2-img {
+        width: 90%;
+        top: 5%;
+        left: 5%;
+    }
+    .individual2-para{
+        position:static;
+        width: 90%;
+        margin: 54px auto;
+        margin-bottom: 0px;
+        display: block;
+    }
+    .body-shop{
+        display: block;
+    }
+    .body-shop-para {
+        width: 90%;
+        display: block;
+        margin: 50px auto;
+    }
+    .body-shop-img {
+        width: 90%;
+        margin: 0px auto;
+    }
+    .body-shop-img img {
+        width: 337px;
+        height: 200px;
+    }
+    .insurance{
+        display: block;
+        width: 100%;
+        margin-bottom: 0px;
+    }
+    .insurance1{
+        width: 100%;
+    }
+    .insurance1-img {
+        display: none;
+    }
+    .insurance1-img::before{
+        display: none;
+    }
+    .insurance1-img::after{
+        display: none;
+    }
+    .finishing{
+        width: 90%;
+        margin: 0px auto;
+        position: static;
+    }
+    .denting{
+        width: 90%;
+        margin: 0px auto;
+        position: static;
+    }
+    .insurance-para{
+        width: 90%;
+        margin: 0px auto;
+        position: static;
+        max-width: 100%;
+    }
+    .sign-up{
+        width: 100%;
+        display: block;
+    }
+    .sign-up1 {
+        width: 90%;
+        margin: 0px auto;
+    }
+    .sign-up1-para {
+        max-width: 100%;
+    }
+    .sign-up2 {
+        width: 90%;
+        margin: 40px auto;
+    }
+    .ad-sign-up{
+        display: block;
+        width: 100%;
+        padding: 0px;
+        margin: 40px 0px;
+    }
+    .ad-sign-up1 {
+        width: 90%;
+        margin: 0px auto;
+    }
+    .ad-sign-up-pink{
+        display: none;
+    }
+    .ad-sign-up2 {
+        width: 90%;
+        margin: 0px auto;
+    }    
+    .ad-sign-up2-para{
+        max-width: 100%;
+    }
+    .partner2{
+        display: block;
+        width: 100%;
+        padding: 0px;
+    }
+    .partner2-img {
+        width: 80%;
+        margin: 0px auto;
+    }
+    .in-touch{
+        display: block;
+    }
+    .in-touch1 {
+        width: 90%;
+        margin: 0px auto;
+    }
+    .in-touch2{
+        width: 90%;
+        margin: 0px auto;
+        padding: 40px 0px;
+    }
+    .in-touch2 p{
+        font-size: 14px;
+        max-width: 100%;
+    }
+    .form1{
+        margin: 40px 0px;
+    }
+    input[type='text']{
+        width: 88%;
+    }
+    input[type='email']{
+        width: 88%;
+    }
+    input[type='tel']{
+        width: 88%;
+    }
+    textarea{
+        resize: horizontal;
+        width: 88%;
+        height: 100px;
+    }
+    .form1 a{
+        bottom: 2%;
+    }
+
+     /* Service Area */
+     .service-div1{
+        display: block;
+    }
+    .service-div1-a{
+    width: 90%;
+    text-align: center;
+    }
+    .service-div1-b{
+    width: 90%;
+    margin: 0px auto;
+    }
+    .service-div2{
+        display: block;
+    }
+    .service-div2-a{
+        width: 100%;
+        text-align: center;
+    }
+    .service-div2-a h2 {
+        margin: 30px auto;
+    }
+    .service-div2-a i{
+        margin-top: 80px;
+    }
+    .index-flex{
+        width: 90%;
+    }
+    /* For Service Area Details Page */
+    .sa-flex{
+        max-width:90%;
+        display: block;
+    }
+    .sa-width1 {
+        width: 90%;
+        margin: 0px auto;
+    }
+    .sa-width1 img {
+        height: 200px;
+    }
+    /* For Owl Carasole */
+    .owl-nav {
+        bottom: 12%;
+    }
+    button.owl-prev {
+        width: 40px;
+        height: 40px;
+    }
+    button.owl-next {
+        width: 40px;
+        height: 40px;
+    }
+    .owl-nav span {
+        font-size: 26px;
+    }
+    /* Tech And Ajuster SignUp */
+    .banner-as-text{
+        max-width: 80%;
+    }
+    .banner-as-para{
+        max-width: 90%;
+    }
+    .banner-service{
+        max-height: 50vh;
+        background-position: center right 23%;
+    }
+    .as-content{
+        padding: 60px 0px;
+    }
+    .as-content p{
+        font-size: 20px;
+    }
+    .as-img{
+        width: 94%;
+        display: block;
+    }
+    .as-img1{
+        width: 100%;
+        padding: 0px;
+        height: 500px;
+        object-position: center;
+    }
+    .img-absolute{
+        display: none;
+    }
+    .as-img2{
+        width: 90%;
+        display: block;
+        margin: 0px auto;
+        padding: 0px;
+    }
+    .registration ul li a{
+        padding: 8px 23px;
+    }
+    ul.tabs{
+        margin: 0px;
+    }
+
+    .banner-s-text {
+        max-width: 90%;
+    }
+    .banner-s-para p {
+        font-size: 12px;
+    }
+
+    /* Portfolio */
+    .portfolio-banner{
+        height: 40vh;
+        text-align: center;
+    }
+    .portfolio-img{
+        width: 100%;
+    }
+    ul.tabs2 , hr{
+        display: none;
+    }
+    .tabContent2-width{
+        width: 47%;
+    }
+    .tabContent2-width:nth-child(odd){
+        display: none;
+    }
+    .see-more a i{
+        border-radius: 100%;
+    }
+    .hail-banner{
+        width: 100%;
+        max-height: 40vh;
+    }
+
+    /* Contact Us */
+    .contact-container{
+        width: 100%;
+    }
+    .contact-section{
+        display: block;
+    }
+    .contact-form{
+        width: 94%;
+        margin: 0px auto;
+    }
+    .contact-info{
+        width: 90%;
+        margin-top: 120px;
+        margin-left: 20px;
+    }
+    .contact-info p{
+        max-width: 70%;
+    }
+    
+    
+    /* Hail Conceirge */
+    .new-container{
+        width: 100%;
+    }
+    .registration{
+        width: 90%;
+        margin: 0px auto;
+    }
+    .tabContent{
+        padding: 0px;
+    }
+    .fname{
+        width: 89%;
+        /* margin: 10px; */
+    }
+    #form3-timeslot{
+        width:89% ;
+    }
+    .service-intouch{
+        padding: 40px 0px;
+    }
+    .service-intouch p{
+        max-width: 80%;
+    }
+
+    /* Footer */
+    .my-footer{
+        width: 100%;
+    }
+    .my-footer1{
+        display: block;
+        padding: 0px;
+    }
+    .my-footer1a{
+        width: 100%;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .my-footer1b{
+        width: 100%;
+        text-align: center;
+        margin-bottom: 30px;
+        margin-left: 0px;
+    }
+    .my-footer1a p {
+        margin: 10px auto;
+        max-width: 80%;
+    }
+    .my-footer2{
+        display: block;
+        text-align: center;
+    }
+    .my-footer2a{
+        width: 100%;
+        
+    }
+    .my-footer2a  i {
+        font-size: 10px;
+    }
+    .my-footer2a p{
+        font-size: 10px;
+    }
+    .my-footer2b{
+        margin-top: 10px;
+    }
+    .my-footer2b a{
+        font-size: 10px;
+    }
+
+    /* Footer Toggle */
+    .my-footer1b ul{
+        display: none;
+    }
+    .footer-heading h2{
+        position: relative;
+    }
+    .footer-heading h2::after{
+        content: "";
+        border: solid black;
+        padding: 3px;
+        border-width: 0px 0px 3px 3px;
+        display: inline-block;
+        transform: rotate(-45deg);
+        position: absolute;
+        bottom: 50%;
+        right: 10%;
+        transition: all 0.4s ease-in-out ;
+    }
+    h2.active::after {
+        transform: rotate(129deg);
+        transition: all ease .4s;
+    }
+}
+
